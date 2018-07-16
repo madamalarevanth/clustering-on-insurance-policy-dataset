@@ -1,6 +1,8 @@
 # clustering-project-on-insurance-policy-dataset
-this is a data analytics project in r
-it is done on insurance policy data set and what it does is it identifies the clusters of people falling under different categories
+This is a data analytics project in r
+It is done on insurance policy data set and what it does is it identifies the clusters of people falling under different categories
+
+I used k means algorithm for clustering and elbow method to identify the optimal no of clusters 
 
 the data set contains following variables
 
